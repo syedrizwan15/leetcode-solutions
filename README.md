@@ -28,6 +28,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0031-next-permutation](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
