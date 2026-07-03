@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -36,6 +37,7 @@
 | [0011-container-with-most-water](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Dynamic Programming
