@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,10 +30,12 @@
 | [0011-container-with-most-water](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
@@ -41,4 +44,12 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0015-3sum) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
