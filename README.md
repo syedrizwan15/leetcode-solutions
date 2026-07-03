@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0005-longest-palindromic-substring](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0027-remove-element) |
 ## Dynamic Programming
 |  |
 | ------- |
