@@ -52,4 +52,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
