@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0169-majority-element) |
 ## Hash Table
@@ -60,6 +61,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0050-powx-n) |
 ## Recursion
 |  |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
