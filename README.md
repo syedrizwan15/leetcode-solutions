@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,4 +93,8 @@
 | ------- |
 | [0048-rotate-image](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
