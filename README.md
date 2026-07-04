@@ -73,11 +73,13 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0050-powx-n) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0206-reverse-linked-list) |
@@ -98,6 +100,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
