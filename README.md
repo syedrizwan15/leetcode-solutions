@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0027-remove-element) |
@@ -86,6 +87,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0169-majority-element) |
 ## Counting
@@ -104,4 +106,8 @@
 | [0021-merge-two-sorted-lists](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
