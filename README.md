@@ -107,6 +107,7 @@
 | [0002-add-two-numbers](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
@@ -131,6 +132,7 @@
 | [0002-add-two-numbers](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
