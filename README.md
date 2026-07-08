@@ -17,6 +17,7 @@
 | [0053-maximum-subarray](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0169-majority-element) |
 ## Hash Table
@@ -61,6 +62,7 @@
 | [0042-trapping-rain-water](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0876-middle-of-the-linked-list](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
