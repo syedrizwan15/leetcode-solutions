@@ -13,6 +13,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0035-search-insert-position) |
 ## Trie
 |  |
 | ------- |
