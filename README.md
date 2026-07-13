@@ -23,6 +23,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0169-majority-element) |
+| [0704-binary-search](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,6 +159,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0704-binary-search) |
 ## Trie
 |  |
 | ------- |
