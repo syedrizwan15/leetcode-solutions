@@ -195,4 +195,20 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0136-single-number) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
