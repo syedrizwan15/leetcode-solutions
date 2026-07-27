@@ -36,6 +36,7 @@
 | [0073-set-matrix-zeroes](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0290-word-pattern) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0058-length-of-last-word](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0290-word-pattern) |
 ## Sliding Window
 |  |
 | ------- |
