@@ -224,4 +224,5 @@
 | ------- |
 | [0197-rising-temperature](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0197-rising-temperature) |
 | [1148-article-views-i](https://github.com/syedrizwan15/leetcode-solutions/tree/master/1148-article-views-i) |
+| [1683-invalid-tweets](https://github.com/syedrizwan15/leetcode-solutions/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
