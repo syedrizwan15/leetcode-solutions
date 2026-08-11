@@ -24,6 +24,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0877-stone-game) |
 ## Hash Table
@@ -41,6 +42,7 @@
 | [0205-isomorphic-strings](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0290-word-pattern) |
+| [0496-next-greater-element-i](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -113,10 +115,12 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
