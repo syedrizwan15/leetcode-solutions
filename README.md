@@ -60,6 +60,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0290-word-pattern) |
@@ -135,6 +136,7 @@
 | [0066-plus-one](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0877-stone-game](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0877-stone-game) |
 | [2413-smallest-even-multiple](https://github.com/syedrizwan15/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/syedrizwan15/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
