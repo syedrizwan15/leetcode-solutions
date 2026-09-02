@@ -39,6 +39,7 @@
 | [0141-linked-list-cycle](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0290-word-pattern) |
@@ -87,6 +88,7 @@
 | [0125-valid-palindrome](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
@@ -137,6 +139,7 @@
 | [0069-sqrtx](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0877-stone-game) |
 | [2413-smallest-even-multiple](https://github.com/syedrizwan15/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/syedrizwan15/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -256,4 +259,8 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/syedrizwan15/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
