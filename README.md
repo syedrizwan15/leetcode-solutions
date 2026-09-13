@@ -149,6 +149,7 @@
 | [0202-happy-number](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0877-stone-game) |
+| [2119-a-number-after-a-double-reversal](https://github.com/syedrizwan15/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/syedrizwan15/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2485-find-the-pivot-integer](https://github.com/syedrizwan15/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/syedrizwan15/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
