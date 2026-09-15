@@ -63,6 +63,7 @@
 | [0022-generate-parentheses](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0091-decode-ways](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -102,6 +103,7 @@
 | [0042-trapping-rain-water](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0213-house-robber-ii) |
