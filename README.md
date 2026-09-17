@@ -63,6 +63,7 @@
 | [0022-generate-parentheses](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
@@ -145,6 +146,7 @@
 | [0048-rotate-image](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
@@ -232,6 +234,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0136-single-number) |
 ## Tree
 |  |
@@ -281,4 +284,8 @@
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/syedrizwan15/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
