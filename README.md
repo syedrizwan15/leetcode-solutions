@@ -28,6 +28,7 @@
 | [0213-house-robber-ii](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0455-assign-cookies](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0877-stone-game) |
@@ -48,6 +49,7 @@
 | [0242-valid-anagram](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -287,6 +289,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2485-find-the-pivot-integer](https://github.com/syedrizwan15/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 ## Simulation
 |  |
