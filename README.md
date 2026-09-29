@@ -49,6 +49,7 @@
 | [0205-isomorphic-strings](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## String
@@ -74,6 +75,7 @@
 | [0205-isomorphic-strings](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -186,6 +188,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -301,4 +304,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0455-assign-cookies) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/syedrizwan15/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
